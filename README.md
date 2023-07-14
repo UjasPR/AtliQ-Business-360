@@ -1,5 +1,5 @@
 # Business Insights 360
-
+Live Dashboard [Link](https://www.novypro.com/project/atliq-hardware-business-insights-360-power-bi-1) 
 ## Project Overview
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
@@ -157,8 +157,9 @@ Fact table : It will have the data about the transactions
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
+![Data Model](https://github.com/UjasPR/AtliQ-Hardware-Business-Insights-/assets/138766573/a3bf7df6-ac52-498c-a1b6-3c9b8be37b3c)
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+
 
 ### Dashboard designing
 
@@ -179,36 +180,37 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+![Overall](https://github.com/UjasPR/AtliQ-Hardware-Business-Insights-/assets/138766573/a871387a-9b1b-46ea-aff9-a580d8257782)
 
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finance](https://github.com/UjasPR/AtliQ-Hardware-Business-Insights-/assets/138766573/2af52950-2542-4712-9978-65065b757b9e)
+
+
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales](https://github.com/UjasPR/AtliQ-Hardware-Business-Insights-/assets/138766573/2daa8911-7661-46af-9aa3-c4e1df2eb876)
+
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing](https://github.com/UjasPR/AtliQ-Hardware-Business-Insights-/assets/138766573/366c64de-eb87-409c-8c6e-01519e0b40f7)
+
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply Chain](https://github.com/UjasPR/AtliQ-Hardware-Business-Insights-/assets/138766573/54362908-3b88-46b6-a5bb-7f7c81c74393)
+
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Execuitve](https://github.com/UjasPR/AtliQ-Hardware-Business-Insights-/assets/138766573/275a9fc6-2b3e-4c74-a5b8-35bb1bc9c492)
+
 
 ## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+![Products View](https://github.com/UjasPR/AtliQ-Hardware-Business-Insights-/assets/138766573/30249092-fa17-4b9a-a876-9ee43984ab4e)
 
 
 ## Project Outcome
